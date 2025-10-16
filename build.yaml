@@ -20,11 +20,6 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: a_dux_left
-  - board: nrfmicro_13
-    shield: a_dux_right
-include:
-  - board: nrfmicro_13
     shield: bfo9000_left
   - board: nrfmicro_13
     shield: bfo9000_right
