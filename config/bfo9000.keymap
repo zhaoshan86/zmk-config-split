@@ -95,6 +95,12 @@
         ;
     };
 
+    layouts_bfo9000_position_map: layouts_bfo9000_position_map {
+        compatible = "zmk,physical-layout-position-map";
+
+        complete;
+    };
+
     chosen {
         zmk,kscan = &kscan0;
         zmk,physical-layout = &bfo9000_layout;
