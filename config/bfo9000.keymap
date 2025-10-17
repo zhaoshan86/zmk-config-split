@@ -141,9 +141,9 @@
     };
 };
 
-&bfo9000_layout {
-    transform = <&default_transform>;
-};
+// &bfo9000_layout {
+//     transform = <&default_transform>;
+// };
 
 &layouts_bfo9000_position_map {
     bfo9000_posmap: full {
