@@ -43,7 +43,7 @@
             ;
     };
 
-    bfo9000-layout: bfo9000-layout {
+    bfo9000_layout: bfo9000_layout {
         compatible = "zmk,physical-layout";
         display-name = "Full (with pinky)";
 
